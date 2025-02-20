@@ -21,7 +21,7 @@
   - [(you know, this stuff).](http://matrix.wikia.com/wiki/Nightmare_Matrix)
 - [Code of the "Paradise Matrix"](https://rezmason.github.io/matrix?version=paradise)
   - [(AKA this stuff).](http://matrix.wikia.com/wiki/Paradise_Matrix)
-- [A custom variant I call "Palimpsest"](https://rezmason.github.io/matrix?version=palimpsest) 
+- [A custom variant I call "Palimpsest"](https://rezmason.github.io/matrix?version=palimpsest)  
 - [A custom variant I call "Twilight"](https://rezmason.github.io/matrix?version=twilight)
 - [Morpheus mode](https://rezmason.github.io/matrix?version=morpheus)
 - [Bugs mode](https://rezmason.github.io/matrix?version=bugs)
