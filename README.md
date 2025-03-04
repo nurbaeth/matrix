@@ -13,7 +13,7 @@
 - [Matrix Resurrections updated code](https://rezmason.github.io/matrix?version=resurrections)
 - [Trinity mode](https://rezmason.github.io/matrix?version=trinity)
 - [Operator Matrix code (with ripple effects)](https://rezmason.github.io/matrix?version=operator)
-- [Megacity Mode, as seen in Revolutions](https://rezmason.github.io/matrix?version=megacity)
+- [Megacity Mode, as seen in Revolutions](https://rezmason.github.io/matrix?version=megacity) 
 
 *Variants*
 
