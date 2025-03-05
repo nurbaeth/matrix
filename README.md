@@ -24,7 +24,7 @@
 - [A custom variant I call "Palimpsest"](https://rezmason.github.io/matrix?version=palimpsest)  
 - [A custom variant I call "Twilight"](https://rezmason.github.io/matrix?version=twilight)
 - [Morpheus mode](https://rezmason.github.io/matrix?version=morpheus)
-- [Bugs mode](https://rezmason.github.io/matrix?version=bugs)     
+- [Bugs mode](https://rezmason.github.io/matrix?version=bugs)      
 - [Pride flag colors](https://rezmason.github.io/matrix/?effect=pride)   
 - [Trans flag colors](https://rezmason.github.io/matrix/?effect=trans)
 - [Custom stripes (`effect=stripes&stripeColors=R,G,B,R,G,B,R,G,B, etc`)](https://rezmason.github.io/matrix/?effect=stripes&stripeColors=1,0,0,1,1,0,0,1,0)
