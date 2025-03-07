@@ -26,7 +26,7 @@
 - [Morpheus mode](https://rezmason.github.io/matrix?version=morpheus)
 - [Bugs mode](https://rezmason.github.io/matrix?version=bugs)      
 - [Pride flag colors](https://rezmason.github.io/matrix/?effect=pride)    
-- [Trans flag colors](https://rezmason.github.io/matrix/?effect=trans)
+- [Trans flag colors](https://rezmason.github.io/matrix/?effect=trans)  
 - [Custom stripes (`effect=stripes&stripeColors=R,G,B,R,G,B,R,G,B, etc`)](https://rezmason.github.io/matrix/?effect=stripes&stripeColors=1,0,0,1,1,0,0,1,0)
 - [Custom palette (`palette=R,G,B,%,R,G,B,%,R,G,B,%, etc`)](https://rezmason.github.io/matrix/?palette=0.1,0,0.2,0,0.2,0.5,0,0.5,1,0.7,0,1)
 - [Custom image (`url=www.website.com/picture.jpg`)](https://rezmason.github.io/matrix/?effect=image&url=https://upload.wikimedia.org/wikipedia/commons/f/f5/EagleRock.jpg)
